@@ -1,2 +1,2 @@
-# parsing1XBET_CSharp
+# parsing-1XBET-CSharp
 Парсер 1хBet (Live). 
